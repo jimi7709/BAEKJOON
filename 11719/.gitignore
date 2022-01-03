@@ -42,9 +42,8 @@
 !*.cpp
 !Main.cpp
 .vs
-.vs/
 Debug
-Debug/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.sln
