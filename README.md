@@ -21,3 +21,6 @@
 1297 https://www.acmicpc.net/problem/1297<br>
 9012 https://www.acmicpc.net/problem/9012 <br>
 20499 https://www.acmicpc.net/problem/20499<br>
+
+# 풀었지만 다시 풀어볼 만한 문제 번호
+10828 https://www.acmicpc.net/problem/10828<br>
