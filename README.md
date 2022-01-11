@@ -12,6 +12,10 @@
 감사합니다. 
 # 푼 문제 번호
 
-24082, 24086,
+24082 <br>
+24086 <br>
 
 # 못 푼 문제 번호
+1297 https://www.acmicpc.net/problem/1297<br>
+9012 https://www.acmicpc.net/problem/9012 <br>
+20499 https://www.acmicpc.net/problem/20499<br>
