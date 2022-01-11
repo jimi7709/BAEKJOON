@@ -12,8 +12,8 @@
 감사합니다. 
 # 푼 문제 번호
 
-24082 <br>
-24086 <br>
+24082 https://www.acmicpc.net/problem/24082<br>
+24086 https://www.acmicpc.net/problem/24086<br>
 
 # 못 푼 문제 번호
 1297 https://www.acmicpc.net/problem/1297<br>
