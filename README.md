@@ -14,6 +14,8 @@
 
 24082 https://www.acmicpc.net/problem/24082<br>
 24086 https://www.acmicpc.net/problem/24086<br>
+19944 https://www.acmicpc.net/problem/19944<br>
+17388 https://www.acmicpc.net/problem/17388<br>
 
 # 못 푼 문제 번호
 1297 https://www.acmicpc.net/problem/1297<br>
