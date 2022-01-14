@@ -18,6 +18,9 @@
 17388 https://www.acmicpc.net/problem/17388<br>
 10797 https://www.acmicpc.net/problem/10797<br>
 6810 https://www.acmicpc.net/problem/6810<br>
+5596 https://www.acmicpc.net/problem/5596<br>
+10156 https://www.acmicpc.net/problem/10156<br>
+1085 https://www.acmicpc.net/problem/1085<br>
 # 못 푼 문제 번호
 1297 https://www.acmicpc.net/problem/1297<br>
 9012 https://www.acmicpc.net/problem/9012 <br>
@@ -28,3 +31,6 @@
 17608 https://www.acmicpc.net/problem/17608<br>
 24039 https://www.acmicpc.net/problem/24039<br>
 10162 https://www.acmicpc.net/problem/10162<br>
+10707 https://www.acmicpc.net/problem/10707<br>
+10871 https://www.acmicpc.net/problem/10871<br>
+16727 https://www.acmicpc.net/problem/16727<br>
